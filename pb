@@ -1,8 +1,0 @@
-{
-"author": "Chinua Achebe",
-"imagelinks": {
-    "smallThumbnail": "images/things-fall-apart.jpg"
-    "thumbnail": "images/things-fall-apart.jpg"
-},
-"title": "Things Fall Apart" 
-}
